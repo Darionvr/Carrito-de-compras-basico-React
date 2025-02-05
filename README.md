@@ -1,9 +1,9 @@
-# Frontend Mentor - solution
+# Frontend Mentor - solución
 
 Este proyecto es la solución a uno de los desafíos de Frontend Mentor.
 [Product list with cart challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
 
-#El desafío
+# El desafío
 
 Los usuarios deberían poder:
 
