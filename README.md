@@ -16,7 +16,7 @@ Los usuarios deberían poder:
 
 ### Creado con
 
-- Semantica HTML5
+- HTML5
 - Estilos y propiedades CSS
 - Flexbox
 - CSS Grid
