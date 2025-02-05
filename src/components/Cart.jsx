@@ -59,7 +59,7 @@ const cleanCart = () => {
 
         <div className="order">
           <p className="yourcart">Your Cart (0)</p>
-          <object className="emptyimg" data="public/assets/images/illustration-empty-cart.svg" type="image/svg+xml"></object>
+          <object className="emptyimg" data="assets/images/illustration-empty-cart.svg" type="image/svg+xml"></object>
          
           <p className="emptymessage">Your added items will appear here</p>
         </div>

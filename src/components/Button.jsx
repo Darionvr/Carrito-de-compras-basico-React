@@ -40,7 +40,7 @@ const CartButton = ({ aumentar, total, disminuir }) => {
 
                 <button className='addtocart' onClick={() => toggleButton()}>
 
-                    <img src="/public/assets/images/icon-add-to-cart.svg" alt="Icono añadir al carrito" />
+                    <img src="assets/images/icon-add-to-cart.svg" alt="Icono añadir al carrito" />
                     Add to Cart
                 </button>)}
 
