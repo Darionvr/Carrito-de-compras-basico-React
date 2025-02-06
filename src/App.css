@@ -165,6 +165,9 @@ aside {
   justify-content: flex-start;
   text-align: left;
   border-bottom: solid 1px var(--Rose100);
+  max-height: 50vh;
+  overflow-y: auto;
+
 }
 
 
@@ -276,7 +279,7 @@ aside {
   border: 1px solid #888;
   width: 400px;
   border-radius: 15px;
-
+ 
 }
 
 .checkedCart{
